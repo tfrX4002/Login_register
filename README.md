@@ -1,0 +1,1 @@
+<!-- A Login and Register template coded using HTML, CSS and JAVASCRIPT  -->
